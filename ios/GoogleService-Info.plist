@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>622096672355-csuauqoa0ofg4dndr9oo45nmtm6fea0t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.622096672355-csuauqoa0ofg4dndr9oo45nmtm6fea0t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCqG_OW5jkINCJ2XDiRK23vb_uaiRj6U3I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>622096672355</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kanetora.checkin</string>
+	<key>PROJECT_ID</key>
+	<string>genial-cab-263803</string>
+	<key>STORAGE_BUCKET</key>
+	<string>genial-cab-263803.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:622096672355:ios:d2f98dd6cce50468fd3a56</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622096672355",
+    "project_id": "genial-cab-263803",
+    "storage_bucket": "genial-cab-263803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622096672355:android:ad01df6c316ab736fd3a56",
+        "android_client_info": {
+          "package_name": "com.kanetora.checkin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622096672355-na4thb60ue3vd584e5689pu5g0tqqunn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_QmF4iBO5XoPrCZihcbtAST3wEcCBe24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622096672355-na4thb60ue3vd584e5689pu5g0tqqunn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
