@@ -19,7 +19,7 @@ import constant from '../constants/constant';
 import {navigateAction} from '../actions/navigationActions';
 import routeNames from '../navigators/routeNames';
 import {setAppStateAction} from '../actions/appStateActions';
-
+import ImageLogoCustom from '../components/ImageLogoCustom';
 function ChangeIPScreen() {
   const [ipCommon, setIpCommon] = useState('');
   const [errorMessage, setErrorMessage] = useState(null);
@@ -66,7 +66,9 @@ function ChangeIPScreen() {
                 commonStyle.flex09,
                 stylesLogin.container,
               ]}>
-              <ImageLogoComponent content="" />
+              {/* <ImageLogoComponent content="" /> */}
+              <ImageLogoCustom/>
+              
               <TextInputCustomComponent
                 placeholder={Strings.placeholderIp}
                 updateState={setIpCommon}
